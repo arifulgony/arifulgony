@@ -24,9 +24,7 @@ Hi, I am Ariful Islam. I am a full-stack Developer. I am currently a computer te
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arifulgony)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulhony)]()
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arigulgony&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=arifulgony)  
 
