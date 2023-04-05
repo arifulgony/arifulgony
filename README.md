@@ -1,8 +1,8 @@
 ![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQEGqn1GLJ5a0g/profile-displaybackgroundimage-shrink_350_1400/0/1670512904843?e=1683158400&v=beta&t=N9xi6YA9ZctlidX7u2yNUOHSoHJLx-9WBQ3X940rgCw)
 # Hi there 👋, I'm Ariful Islam
-## Full Stack Developer (MERN)
+## Front-end Developer (MERN)
 
-Hi, I am Ariful Islam. I am a full-stack Developer. I am currently a computer technology 7th semester student of Thakurgaon Polytechnic. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
+Hi, I am Ariful Islam. I am a Front-end Developer (MERN). I am currently a computer technology 7th semester student of Thakurgaon Polytechnic. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
 
 #### Skills: HTML5 / CSS3 / JavaScript / React / Express / Node / MongoDB / Tailwind CSS / Bootstrap5 /
  
