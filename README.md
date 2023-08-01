@@ -2,13 +2,13 @@
 # Hi there 👋, I'm Ariful Islam
 ## Front-end Developer (MERN)
 
-Hi, I am Ariful Islam. I am a Front-end Developer (MERN). I am currently a computer technology 7th semester student of Thakurgaon Polytechnic. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
+Hi, I am Ariful Islam. I am a Front-end Developer (MERN). I am currently a computer technology final semester student at Thakurgaon Polytechnic. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
 
 #### Skills: HTML5 / CSS3 / JavaScript / React / Express / Node / MongoDB / Tailwind CSS / Bootstrap5 /
  
 - 🌱 I’m currently learning JavaScript, Redux, and NUXT. 
 - 👯 I’m looking to collaborate on Github and  Linkedin. 
-- 🤔 I’m looking for help with your supports. 
+- 🤔 I’m looking for help with your support. 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: arifulgony@gmail.com
 
