@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Ariful Islam
 ## Front-end Developer (MERN)
 
-Hi, I am Ariful Islam. I am a Front-end Developer (MERN).I am completing Diploma in Engineering with Computer Technology in Thakurgaon Polytechnic Institute. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
+Hi, I am Ariful Islam. I am a Front-end Developer (MERN). I am completing a Diploma in Engineering with Computer Technology at Thakurgaon Polytechnic Institute. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
 
 #### Skills: HTML5 / CSS3 / JavaScript / React / Express / Node / MongoDB / Tailwind CSS / Bootstrap5 /
  
